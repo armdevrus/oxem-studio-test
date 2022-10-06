@@ -1,13 +1,29 @@
-body {
+@font-face {
+  font-family: GilroyBlack;
+  src: url("./fonts/Gilroy-Black.ttf");
+}
+@font-face {
+  font-family: Gilroy;
+  src: url("./fonts/Gilroy.ttf");
+}
+@font-face {
+  font-family: Nekst;
+  src: url("./fonts/Nekst.ttf");
+}
+body, input, button {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: GilroyBlack;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+h1 {
+  font-family: Nekst;
+}
+h5, h6{
+  font-family: Gilroy;
+}
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
