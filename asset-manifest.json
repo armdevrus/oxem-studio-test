@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oxem-studio-test/static/css/main.5b0df5a9.css",
+    "main.js": "/oxem-studio-test/static/js/main.7761f416.js",
+    "static/media/Nekst.ttf": "/oxem-studio-test/static/media/Nekst.dffaebf93d38d4c41536.ttf",
+    "static/media/Gilroy.ttf": "/oxem-studio-test/static/media/Gilroy.fc813b757bc09eb509dc.ttf",
+    "static/media/Gilroy-Black.ttf": "/oxem-studio-test/static/media/Gilroy-Black.4628979a4dac24916ba7.ttf",
+    "index.html": "/oxem-studio-test/index.html",
+    "main.5b0df5a9.css.map": "/oxem-studio-test/static/css/main.5b0df5a9.css.map",
+    "main.7761f416.js.map": "/oxem-studio-test/static/js/main.7761f416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b0df5a9.css",
+    "static/js/main.7761f416.js"
+  ]
+}
